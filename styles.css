@@ -3,11 +3,14 @@ body {
 }
 
 .image{
-    border: 4px solid #2d754d;
-    border-radius: 15px;
-    height: 300px;
-    box-shadow: 10px 10px 15px #92EF9D;
-    text-align:center;
+   border: 4px solid #462d75;
+   border-radius: 15px;
+   height: 300px;
+   box-shadow: 10px 10px 15px #454a5f;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
 }
 
 .link-button {
