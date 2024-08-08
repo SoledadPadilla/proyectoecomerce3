@@ -1,5 +1,9 @@
 body {
-    background-color: rgb(255, 255, 165);
+    font-family: 'Playfair Display', serif;
+    background-color: #fef8f5;
+    color: #2c2c2c;
+    margin: 0;
+    padding: 20px;
 }
 
 .image{
