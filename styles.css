@@ -1,0 +1,39 @@
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: #fef8f5;
+    color: #2c2c2c;
+    margin: 0;
+    padding: 20px;;
+    border-radius: 15px;
+    height: 300px;
+    box-shadow: 10px 10px 15px #92EF9D;
+    text-aalign:center;
+}
+
+.link-button {
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 10px 10px 15px #222222;
+}
+a{
+background-color: rgb(164, 164, 248);
+}
+
+p {text-align: center;
+    font-weight: 700;
+    color: #b56576;
+    text-shadow: 10px 10px 15px #b9929a;
+
+h1 {2
+    
+font-weight: 700;
+    color: #b56576;
