@@ -22,3 +22,28 @@ body {
     box-shadow: 2px 3px #888888;
     font-family: 'Playfair Display', serif;
 }
+
+h1{
+    text-align: center;
+    font-weight: 700;
+    color: #b56576;
+    text-shadow: 10px 10px 15px #b9929a;
+}
+
+
+h2 {
+    font-weight: 700;
+    color: #b56576;
+}
+
+
+a{
+background-color: rgb(164, 164, 248);
+}
+
+
+p {
+    font-weight: 400;
+    line-height: 1.7;
+    color: #4a4a4a;
+}
